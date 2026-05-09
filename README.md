@@ -1,5 +1,3 @@
-## Hi th# 
-
 💫 About Me:
 
 
