@@ -1,4 +1,8 @@
-## Hi th# 💫 About Me:
+## Hi th# 
+
+💫 About Me:
+
+
 # Hi 👋, I'm Pulkit Sharma<br><br>💻 Aspiring Full Stack Java Developer passionate about building scalable web applications and backend systems.<br><br>🚀 Tech Stack:<br>Java | Spring Boot | JavaScript | React.js | MySQL | Git & GitHub<br><br>📈 Currently improving problem-solving skills through DSA and real-world projects.<br><br>🔭 I’m currently working on  <br>Building scalable Full Stack Applications with Spring Boot and React<br><br>👯 I’m looking to collaborate on  <br>Backend Development, Open Source Projects, and API-based Applications<br><br>🤝 I’m looking for help with  <br>Microservices, System Design, and Production-level Architecture<br><br>🌱 I’m currently learning  <br>Advanced Java, Spring Security, React Ecosystem, and Data Structures & Algorithms<br><br>💬 Ask me about  <br>Java Development, REST APIs, Frontend Integration, Git & GitHub<br><br>⚡ Fun fact  <br>I believe consistency and real-world projects are the fastest way to grow as a developer 💡
 
 
