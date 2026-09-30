@@ -20,10 +20,10 @@ I build full-stack applications with **Java, Spring Boot and React**, and I inte
 | Project | What it does | Tech |
 |---|---|---|
 | [AI-Based Alzheimer Patient Monitoring Platform](https://github.com/pulkitcode-bit/AI-Based-Alzheimer-Patient-Monitoring-Platform) | Caregiver platform for patient monitoring and cognitive therapy tracking, with a recommendation engine for personalised exercise plans, doctor dashboard and appointment scheduling | Spring Boot, React, MySQL |
-| [Employee Management System](https://github.com/pulkitcode-bit/Employee-Management-System) | REST API for employee management with CRUD operations | Java, Spring Boot, JPA, MySQL |
-| [Smart Search Platform](https://github.com/pulkitcode-bit/smart-search-platform-usingFastAPI) | Smart search platform built on a FastAPI backend | Python, FastAPI, JavaScript |
+| [Employee Management System](https://github.com/pulkitcode-bit/Employee-Management-System) | REST API with full CRUD, input validation and global exception handling in a layered architecture | Java, Spring Boot, Spring Data JPA, MySQL |
+| [Pulkit Trac (Inventory Platform)](https://github.com/pulkitcode-bit/smart-search-platform-usingFastAPI) | Full-stack inventory app with product CRUD and search, React frontend on a FastAPI REST API | React, FastAPI, Python, MySQL |
 | [Inventory Management System](https://github.com/pulkitcode-bit/inventory-management-system) | Architecture and design for an inventory system: layered design, design patterns, DB schema (YuvaIntern Java internship) | Java, Spring Boot, MySQL |
-| [Java Console Projects](https://github.com/pulkitcode-bit/java-console-projects) | 6 Java console applications demonstrating OOP, Collections, File I/O and exception handling | Java |
+| [Java Console Projects](https://github.com/pulkitcode-bit/java-console-projects) | 6 Java console applications from my Saiket Systems internship: OOP, Collections, File I/O, exception handling | Java |
 
 ---
 
