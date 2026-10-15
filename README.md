@@ -18,7 +18,11 @@ I build full-stack applications with **Java, Spring Boot and React**, and I inte
 ## 🚀 Featured Projects
 
 | Project | What it does | Tech |
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
 |---|---|---|
+| [Crime App (Final Year Project)](https://github.com/pulkitcode-bit/crime--app) | Crime reporting and analysis platform that visualizes incidents on an interactive map, analyzes trends over time, and provides a dedicated portal for authorities to monitor high-risk zones and respond accordingly | Next.js 16, TypeScript, Neon PostgreSQL, Leaflet, Recharts, shadcn/ui, Tailwind CSS |
 | [AI-Based Alzheimer Patient Monitoring Platform](https://github.com/pulkitcode-bit/AI-Based-Alzheimer-Patient-Monitoring-Platform) | Caregiver platform for patient monitoring and cognitive therapy tracking, with a recommendation engine for personalised exercise plans, doctor dashboard and appointment scheduling | Spring Boot, React, MySQL |
 | [Employee Management System](https://github.com/pulkitcode-bit/Employee-Management-System) | REST API with full CRUD, input validation and global exception handling in a layered architecture | Java, Spring Boot, Spring Data JPA, MySQL |
 | [Pulkit Trac (Inventory Platform)](https://github.com/pulkitcode-bit/smart-search-platform-usingFastAPI) | Full-stack inventory app with product CRUD and search, React frontend on a FastAPI REST API | React, FastAPI, Python, MySQL |
